@@ -1,3 +1,10 @@
+
+//Eberto Diego
+// N220
+// 09/15/2022
+
+
+
 let bouncyBall = {
 color: "#FF0000",
 width: 20,
@@ -6,6 +13,7 @@ x: 200,
 y: 500
 }
 
+// creating the ball
 
 function drawBall() {
 
@@ -19,6 +27,10 @@ function drawBall() {
 
 
 }
+
+//coding the ball 
+
+
 
 
 let rectangle = {
@@ -41,6 +53,8 @@ let rectangle2 = {
 
 }
 
+
+//making of both rectangles 
 
 function setup () {
 
@@ -66,3 +80,7 @@ function drawRect() {
         //change properties
       }
 }
+
+
+
+//making the tennis game
