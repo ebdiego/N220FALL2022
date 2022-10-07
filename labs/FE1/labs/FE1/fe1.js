@@ -1,4 +1,4 @@
-for(int i=1 ; i<=5; i++) 
+for(int i=1; i<=5; i++) 
 {     System.out.println(i*1000 + " ");
 
 class beepbop {
@@ -16,7 +16,7 @@ class beepbop {
    }
 }
 
-class Runner_up {
+class Runner up {
 static void main(String[] args) {
            Scanner input = new Scanner(System.in);
            int arr[] = new int[3];
@@ -45,7 +45,7 @@ static void main(String[] args) {
 class Favorray {
   static void main(String[] args) {
            Scanner input = new Scanner(System.in);
-           String arr[] = new String[5];
+           string arr[] = new String[5];
            int temp;
            // Getting input from user
            System.out.println("Enter five of your favorite things: ");    
