@@ -1,3 +1,6 @@
+//Eberto Diego
+// N220
+// 10/6/2022
 
 
 for(let i=1 ; i<=5; i++) {
