@@ -4,10 +4,8 @@ for(let i=1 ; i<=5; i++) {
 System.out.println(i*1000 + " ");
 }
 
-class beepbop {
-       for(let i=1; i<=25; i++);
-       
-       
+ {
+       for(let i=1; i<=25; i++) {
            if(i%3==0)
                System.out.println("beep");
            else if(i%5==0)
@@ -17,11 +15,12 @@ class beepbop {
            else
                System.out.println(i);
        }
-   }
+       }
+   
 
 
-class Runner up {
-           let ar [] = new int[3];
+ {
+           let arr [] = new int[3];
            let temp;
         
            System.out.println("Three Best Numbers: ");    
@@ -44,10 +43,8 @@ class Runner up {
 
 
  
-class Favorray {
-           string arr[] = new String[5];
-           let temp;
-           // Getting input from user
+{
+            arr[i] = new String[5];
            System.out.println("Enter five of your favorite things: ");    
            for (let i=0;i<5;i++);
            arr[i]=input.next();        
